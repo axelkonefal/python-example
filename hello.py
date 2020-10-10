@@ -4,7 +4,9 @@ import sys
 
 def hello(what):
     print('Hello, {}!'.format(what))
-    ptintt())vgdsdfnn
+
+    print('xDD')
+
 
 
 def say_what():
